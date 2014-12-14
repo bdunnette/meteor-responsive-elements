@@ -2,7 +2,7 @@ Package.describe({
   name: 'bdunnette:responsive-elements',
   summary: ' /* Fill me in! */ ',
   version: '1.0.0',
-  git: ' /* Fill me in! */ '
+  git: 'https://github.com/bdunnette/meteor-responsive-elements.git'
 });
 
 Package.onUse(function(api) {
